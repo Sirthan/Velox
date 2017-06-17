@@ -9,7 +9,8 @@ Velox was originally created to help me and some close friends study for an AP P
 Followed by a newline, as whitespace matters for the Velox question interpreter. Don't worry about the positioning of the answer choices, as the game automatically shuffles both the question list and answer choices. When done, save and run the jar to see your questions come to life!
 
 # How does the game score your answers?
-Velox was created to be a game focused on answering as many questions as quickly as possible, and the way the game scores correct awnsers definitely mirrors this belief! When a user selects a correct answer, the game adds points to your score equal to the ammount of time left on the clock times 10. This ensures the winning player is the onw who answers as quickly and as accurately as possible!
+Velox was created to be a game focused on answering as many questions as quickly as possible, and the way the game scores correct answers definitely mirrors this belief! When a user selects a correct answer, the game adds points to your score equal to the amount of time left on the clock times 10. This ensures the winning player is the one who answers as quickly and as accurately as possible!
 
 # How do I clear the highscore list?
-Velox's highscore list can easily be cleared by opening the "highscores.Velox" file and clearing out the text there. To prevent cheaters from simply adding their name to the top of the leaderboards, the file is compiled as a binary, so the list is near impossible to edit without changing the source code to the game. 
+Velox's highscore list can easily be cleared by opening the "highscores.Velox" file in the res folder and clearing out the text there. To prevent cheaters from simply adding their name to the top of the leaderboards, the file is compiled as a binary, so the list is near impossible to edit without changing the source code to the game.
+
